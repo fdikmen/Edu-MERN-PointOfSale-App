@@ -21,3 +21,4 @@ Point Of Sale (POS) application with MERN.
 - [ ] İlk Etapta Yapman Gerekenler Demo Görüntüsüne Ulaşabilmek; https://www.emsifa.com/tailwind-pos/
 - [ ] İlk Etap İçin Gereken Süre 7gün
 - [ ] Responsive lik önemli
+- [ ] Hergün, gün sonunda *çalışan* versiyonu mutlaka check-in yap.
