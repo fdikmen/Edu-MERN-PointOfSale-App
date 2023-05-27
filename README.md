@@ -16,7 +16,7 @@ Point Of Sale (POS) application with MERN.
 
 # YAPILACAKLAR
 
-- [ ] React ta Sıfırdan Oluşturulmuş Proje yi GITHUB dan clone la. ([https://github.com/fdikmen/Edu-MERN-PointOfSale-App.git](/Applications/Joplin.app/Contents/Resources/app.asar/git@github.com:fdikmen/PointOfSale_MERN.git))
+- [ ] React ta Sıfırdan Oluşturulmuş Proje yi GITHUB dan clone la. ([https://github.com/fdikmen/Edu-MERN-PointOfSale-App.git](https://github.com/fdikmen/Edu-MERN-PointOfSale-App.git))
 - [ ] Folder structure ı bozma, uyum sağla gerekirse geliştir.
 - [ ] İlk Etapta Yapman Gerekenler Demo Görüntüsüne Ulaşabilmek; https://www.emsifa.com/tailwind-pos/
 - [ ] İlk Etap İçin Gereken Süre 7gün
